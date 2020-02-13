@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4661a4ae-fcb2-42f2-b13c-58f87ac75002</testCaseGuid>
+   <variable>
+      <defaultValue>'http://192.168.5.46:9090/sso'</defaultValue>
+      <description></description>
+      <id>bb2ebf20-83af-4520-81bf-7e2aaa9c8a5e</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'KENNY1'</defaultValue>
+      <description></description>
+      <id>9599603f-885b-41b6-9195-e7368ef20505</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'@Abc123'</defaultValue>
+      <description></description>
+      <id>f25c1af1-a040-4ec1-a580-e97896a8cebf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
